@@ -1,0 +1,4 @@
+django>=5.1
+requests>=2.32
+beautifulsoup4>=4.13
+lxml>=6.0
